@@ -25,9 +25,9 @@ Then, reversi CUI shown below will appear.
 0|- - - - - - - - 
 1|- - - - - - - - 
 2|- - - - - - - - 
-3|- - - x o - - - 	Black: 4
-4|- - - x x - - - 	White: 1
-5|- - - x - - - - 
+3|- - - x o - - - 	Black: 2
+4|- - - o x - - - 	White: 2
+5|- - - - - - - - 
 6|- - - - - - - - 
 7|- - - - - - - - 
 Black turn
